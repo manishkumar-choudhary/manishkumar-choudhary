@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-- x-@manishkumar_21
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- @manishkumar_ml on X
+  
+
 
 <!---
 manishkumar-choudhary/manishkumar-choudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
