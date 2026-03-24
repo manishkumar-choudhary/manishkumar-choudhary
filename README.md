@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 
 - 📫 How to reach me
-- on X =>@manishkumar_ml
+- on X =>@algorithms_ai
   
   
 
